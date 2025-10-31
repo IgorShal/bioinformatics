@@ -66,5 +66,5 @@
 2. Выбрать представление **Ribbons + Surface (частично прозрачная поверхность)**  
 3. Настройки:  
    - Фон: **Actions → Color → all options → background → white**  
-   - Прозрачность поверхности: **Actions → Surface → transparency ≈ 30%**     
+   - Прозрачность поверхности: **Actions → Surface → transparency ≈ 50%**     
 4. Сохранить изображение: **File → Save Image → publication.png**
