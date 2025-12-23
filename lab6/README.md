@@ -39,6 +39,6 @@
 3. ["Paracetamol: Safe Use for Pain & Fever Relief - iMedix"](https://www.imedix.com/drugs/paracetamol/)
 4. [mechanisms of action - PubMed"](https://pubmed.ncbi.nlm.nih.gov/18811827/) 
 5. ["Paracetamol - An old drug with new mechanisms of action - PubMed"](https://pubmed.ncbi.nlm.nih.gov/32767405/)
-
+## 2. Ноутбук основной `Shalygin_basic_molecular_docking.ipynb`, также дополнительный `Shalygin_basic_molecular_docking_without_widgets.ipynb`, из которого удалены виджеты, чтобы рендерить на гитхаб.
 ## 3. Полученный результат докинга в папке `lab6/Paracetamol`
 ## 4. Изображения в папке `lab6/images`
